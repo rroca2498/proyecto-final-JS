@@ -4,69 +4,69 @@
        "descripcion":"bujia K4M Megane",
        "precio":910,
        "rubro":"encendido",
-       "img":"../Imagenes/repuestoMuestra.jpg"
+       "img":"../Imagenes/Bujia.svg"
     },
     {
        "sku":2,
        "descripcion":"manija interior Logan",
        "precio":3800,
        "rubro":"accesorios",
-       "img":"../Imagenes/repuestoMuestra.jpg"
+       "img":"../Imagenes/manijar.svg"
     },
     {
        "sku":3,
        "descripcion":"kit cremallera embrague R21",
        "precio":1010,
        "rubro":"accesorios",
-       "img":"../Imagenes/repuestoMuestra.jpg"
+       "img":"../Imagenes/kit pedal.svg"
     },
     {
        "sku":4,
        "descripcion":"pata caja R19",
        "precio":4840,
        "rubro":"motor",
-       "img":"../Imagenes/repuestoMuestra.jpg"
+       "img":"../Imagenes/pata caja.svg"
     },
     {
        "sku":5,
        "descripcion":"ruleman delantero SNR",
        "precio":7500,
        "rubro":"rodamiento",
-       "img":"../Imagenes/repuestoMuestra.jpg"
+       "img":"../Imagenes/ruleman delantero.svg"
     },
     {
        "sku":6,
        "descripcion":"ruleman trasero SKF",
        "precio":6950,
        "rubro":"rodamiento",
-       "img":"../Imagenes/repuestoMuestra.jpg"
+       "img":"../Imagenes/ruleman trasero.svg"
     },
     {
        "sku":7,
        "descripcion":"bieleta Suran",
        "precio":2870,
        "rubro":"suspension",
-       "img":"../Imagenes/repuestoMuestra.jpg"
+       "img":"../Imagenes/bieleta.svg"
     },
     {
        "sku":8,
        "descripcion":"amortiguador delantero Duster",
        "precio":15640,
        "rubro":"suspension",
-       "img":"../Imagenes/repuestoMuestra.jpg"
+       "img":"../Imagenes/amortiguador.svg"
     },
     {
        "sku":9,
        "descripcion":"antena universal",
        "precio":1500,
        "rubro":"accesorios",
-       "img":"../Imagenes/repuestoMuestra.jpg"
+       "img":"../Imagenes/antena.svg"
     },
     {
        "sku":10,
        "descripcion":"cables de bujia K7M",
        "precio":11200,
        "rubro":"encendido",
-       "img":"../Imagenes/repuestoMuestra.jpg"
+       "img":"../Imagenes/cables.svg"
     }
  ]
