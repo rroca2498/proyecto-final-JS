@@ -1,0 +1,13 @@
+%agrandadoChico{
+
+    border: $bordeFino;
+    transform: $agrandaImagenChico;
+}
+
+%transicionLenta{
+    transition: all 4s;
+}
+
+%transicionRapida{
+    transition: all 2s;
+}

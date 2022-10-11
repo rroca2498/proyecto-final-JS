@@ -1,0 +1,5 @@
+@mixin desvaneceImangen ($x, $y){
+    
+    transform: scale($x);
+    opacity: $y;
+}

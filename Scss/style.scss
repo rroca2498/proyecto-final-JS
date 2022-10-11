@@ -1,0 +1,17 @@
+@import 'Bases/variables';
+@import 'Bases/listas';
+@import 'Bases/extends';
+@import 'Bases/mixins';
+@import 'Bases/mapas';
+@import 'Componentes/header';
+@import 'Componentes/index';
+@import 'Componentes/nosotros';
+@import 'Componentes/empresa';
+@import 'Componentes/marcas';
+@import 'Componentes/contacto';
+@import 'Componentes/shop';
+@import 'Componentes/footer';
+
+*{
+    font-family: 'Source Code Pro', monospace;
+}

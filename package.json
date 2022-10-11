@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-final-cardelle",
+  "version": "1.0.0",
+  "description": "El primer paso fue crear la estructura del sitio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rroca2498/proyecto-final-cardelle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rroca2498/proyecto-final-cardelle/issues"
+  },
+  "homepage": "https://github.com/rroca2498/proyecto-final-cardelle#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.19"
+  }
+}

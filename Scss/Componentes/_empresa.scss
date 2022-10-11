@@ -1,0 +1,17 @@
+.caja__texto2{
+    background-color: map-get($fondoTextos, bg );
+    color: nth($colores,3);
+    padding: 20px;
+    letter-spacing: 2px;
+        
+    &:hover{
+        border: map-get($textoLlamativo, borde );
+        background-color: map-get($textoLlamativo, bg );
+        color: black;
+    }
+}
+
+.publicidad2{
+    width: 100rem;
+    @extend %transicionLenta;
+}

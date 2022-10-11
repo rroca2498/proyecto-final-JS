@@ -1,0 +1,18 @@
+.logo__nav__container{
+    width: 50%;
+}
+
+.logo__nav__img{
+    width: 100%;
+}
+
+header{
+    background-color: nth($colores, 3);
+}
+
+.nav-link{
+
+    &:hover{
+        color: nth($colores,2) !important;
+    }
+}

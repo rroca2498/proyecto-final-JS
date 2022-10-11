@@ -1,0 +1,29 @@
+.publicidad1{
+    width: 100rem;
+    @extend %transicionLenta;
+}
+
+.caja__texto1{
+    background-color: map-get($fondoTextos, bg );
+    color: nth($colores,3);
+    padding: 20px;
+    letter-spacing: 2px;
+        
+    &:hover{
+        border: map-get($textoLlamativo, borde );
+        background-color: map-get($textoLlamativo, bg );
+        color: black;
+    }
+}
+
+.logos__RR{
+    width: 14rem;
+}
+
+.logo__RR__viejo{
+    @extend %transicionRapida;
+
+    &:hover{
+        @include desvaneceImangen (2, 0)
+    }
+}
